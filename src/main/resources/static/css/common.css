@@ -1,0 +1,23 @@
+.navbar-default {
+    background: #B8181A;
+    border-radius: unset;
+    margin-bottom: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+#head-tittle {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.no-bor-rad{
+    border-radius: unset;
+}
